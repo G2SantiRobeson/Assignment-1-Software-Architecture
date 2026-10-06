@@ -5,7 +5,7 @@ gem "rails", "8.0.5.1"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use postgresql as the database for Active Record
-gem "pg", "~> 1.1"
+gem "pg", "~> 1.7"
 gem "redis", "~> 5.4"
 gem "activerecord-session_store", "~> 2.2"
 gem "opensearch-ruby", "~> 3.4", require: "opensearch"
